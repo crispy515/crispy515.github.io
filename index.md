@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Welcome to crispy's blog, feel free to read things I will post about.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Planning to talk about things I have nowhere near enough knowledge on, and sports, which I have a similar lack of knowledge with.
