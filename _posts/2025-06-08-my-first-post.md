@@ -7,10 +7,3 @@ Sydney has finally cooled down but the streets have been heating up with Vivid, 
 Honeslty, I was not very invested in the giant walk, however I do like this photo I took, take a look!
 
 ![Photograph from an installation at Darling Harbour, shot on a Sony Cyber-Shot.](/images/vivid%202025.jpeg)
-
-
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
